@@ -1,0 +1,27 @@
+@import "base";
+
+.photo-band {
+  background-color: $paper;
+  display: flex;
+  overflow-x: scroll;
+  width: 100vw;
+
+  .photo-strip {
+    display: flex;
+    justify-content: flex-start;
+    min-width: 100%;
+    padding: 1rem;
+  }
+
+  .photo {
+    margin-right: 1rem;
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    img {
+      height: 500px;
+    }
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "filestem": "PC041485",
+    "label": "Paulette",
+    "datestamp": "2018-12-04 16:41:28",
+    "coordinates": {
+      "lat": 51.0590552,
+      "lon": 3.7246938
+    },
+    "streetname": "Goudstraat"
+  },
+  {
+    "filestem": "PC041489",
+    "label": "Miss Şeruza",
+    "datestamp": "2018-12-04 17:17:40",
+    "coordinates": {
+      "lat": 51.0617416,
+      "lon": 3.6999465
+    },
+    "streetname": "Bevrijdingslaan"
+  },
+  {
+    "filestem": "PC051492",
+    "label": "Haroon Nachtwinkel",
+    "datestamp": "2018-12-05 13:26:00",
+    "coordinates": {
+      "lat": 51.0497246,
+      "lon": 3.7203319
+    },
+    "streetname": "Sluizekenstraat"
+  },
+  {
+    "filestem": "PC051493",
+    "label": "Volkshuis",
+    "datestamp": "2018-12-05 13:28:00",
+    "coordinates": {
+      "lat": 51.0605693,
+      "lon": 3.7232712
+    },
+    "streetname": "Sleepstraat"
+  },
+  {
+    "filestem": "PC061495",
+    "label": "El Baraka",
+    "datestamp": "2018-12-06 08:49:00",
+    "coordinates": {
+      "lat": 51.062012,
+      "lon": 3.6975272
+    },
+    "streetname": "Bevrijdingslaan"
+  },
+  {
+    "filestem": "PC061496",
+    "label": "Wassalon Pleintje",
+    "datestamp": "2018-12-06 08:53:00",
+    "coordinates": {
+      "lat": 51.0592164,
+      "lon": 3.7018085
+    },
+    "streetname": "Emilius Seghersplein"
+  },
+  {
+    "filestem": "PC061497",
+    "label": "Snack Marrakech",
+    "datestamp": "2018-12-06 08:53:30",
+    "coordinates": {
+      "lat": 51.0589094,
+      "lon": 3.702206
+    },
+    "streetname": "Phoenixstraat"
+  },
+  {
+    "filestem": "PC061498",
+    "label": "Elektro Komfort Chris Feys",
+    "datestamp": "2018-12-06 08:54:00",
+    "coordinates": {
+      "lat": 51.0582297,
+      "lon": 3.703233
+    },
+    "streetname": "Phoenixstraat"
+  },
+  {
+    "filestem": "PC061502",
+    "label": "Consouling",
+    "datestamp": "2018-12-06 10:28:00",
+    "coordinates": {
+      "lat": 51.0576767,
+      "lon": 3.7242005
+    },
+    "streetname": "Baudelostraat"
+  }
+]
+
