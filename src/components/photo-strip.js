@@ -12,7 +12,7 @@ class PhotoStrip extends React.Component {
   }
 
   componentWillUnmount() {
-    // ReactDOM.findDOMNode(this.refs.photoStrip).removeEventListener('scroll', lazyLoad);
+    ReactDOM.findDOMNode(this.refs.photoStrip).removeEventListener('scroll', lazyLoad);
   }
 
   render() {
