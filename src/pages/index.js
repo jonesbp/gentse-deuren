@@ -2,21 +2,13 @@ import React from "react"
 
 import Layout from "../components/layout";
 
+import PhotoStrip from "../components/photo-strip";
+
 import '../../scss/homepage.scss';
 
 export default ({ data }) => (
   <Layout>
-    <div className="photo-band">
-      <div className="photo-strip">
-        {data.allMomentsJson.edges.map(({ node }) => (
-          <div className="photo">
-            <img
-              src={`/images/photos/${node.filestem}-small.jpg`}
-              alt={`Doorway on ${node.streetname}`} />
-          </div>
-        ))}
-      </div>
-    </div>
+    <PhotoStrip moments={data.allMomentsJson} />
   </Layout>
 );
 

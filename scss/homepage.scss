@@ -1,12 +1,12 @@
 @import "base";
 
-.photo-band {
+.photo-strip {
   background-color: $paper;
   display: flex;
   overflow-x: scroll;
   width: 100vw;
 
-  .photo-strip {
+  .photo-strip-contents {
     display: flex;
     justify-content: flex-start;
     min-width: 100%;
