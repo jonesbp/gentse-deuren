@@ -9,6 +9,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "fecha": "^3.0.2",
     "gatsby": "^2.0.33",
     "gatsby-plugin-react-helmet": "^3.0.4",
     "gatsby-plugin-sass": "^2.0.6",

@@ -1,9 +1,11 @@
 import React from "react";
 
+import DateTag from "./date-tag";
+
 export default (props) => (
   <div className="photo">
     {(props.date) ? (
-      <div className="date-tag">{props.date}</div>
+      <DateTag date={props.date} />
     ) : null}
     <img
       src="/images/1x1.gif" 
