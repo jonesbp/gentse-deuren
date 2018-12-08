@@ -2,6 +2,9 @@ import React from "react";
 
 export default (props) => (
   <div className="photo">
+    {(props.date) ? (
+      <div className="date-tag">{props.date}</div>
+    ) : null}
     <img
       src="/images/1x1.gif" 
       class="lazy" 

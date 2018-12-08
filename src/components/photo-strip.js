@@ -6,6 +6,22 @@ import {lazyLoad} from "../helpers/lazy-load";
 import PhotoStripCell from "../components/photo-strip-cell";
 
 class PhotoStrip extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.photoCells = this.props.moments.edges.map(({ node }, idx, originalArray) => {
+      if (idx === 0) {
+        return { node: node, date: node.datestamp }
+      }
+
+      if (node.datestamp.substr(0, 11) !== originalArray[idx - 1].node.datestamp.substr(0, 11)) {
+        return { node: node, date: node.datestamp }
+      }
+
+      return { node: node, date: null };
+    });
+  }
+
   componentDidMount() {
     lazyLoad(true); // Force a lazyLoad check on first mount
     ReactDOM.findDOMNode(this.refs.photoStrip).addEventListener('scroll', lazyLoad);
@@ -19,8 +35,8 @@ class PhotoStrip extends React.Component {
     return (
       <div ref="photoStrip" class="photo-strip">
         <div class="photo-strip-contents">
-          {this.props.moments.edges.map(({ node }) => (
-            <PhotoStripCell moment={node} />
+          {this.photoCells.map((val) => (
+            <PhotoStripCell moment={val.node} date={val.date} />
           ))}
         </div>
       </div>

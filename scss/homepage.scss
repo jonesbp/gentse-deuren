@@ -15,6 +15,7 @@
 
   .photo {
     margin-right: 1rem;
+    position: relative;
 
     &:last-child {
       margin-right: 0;
@@ -22,6 +23,13 @@
 
     img {
       height: 500px;
+    }
+
+    .date-tag {
+      background-color: $red;
+      color: $paper;
+      padding: .5rem;
+      position: absolute;
     }
   }
 }
