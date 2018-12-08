@@ -88,6 +88,56 @@
       "lon": 3.7242005
     },
     "streetname": "Baudelostraat"
+  },
+  {
+    "filestem": "PC071506",
+    "label": "Kapper Muzaffer",
+    "datestamp": "2018-12-07 08:40:00",
+    "coordinates": {
+      "lat": 51.059417,
+      "lon": 3.7030978
+    },
+    "streetname": "Emilius Seghersplein"
+  },
+  {
+    "filestem": "PC071509",
+    "label": "Valeir",
+    "datestamp": "2018-12-07 10:05:00",
+    "coordinates": {
+      "lat": 51.0562053,
+      "lon": 3.7306453
+    },
+    "streetname": "Sint-Joriskaai"
+  },
+  {
+    "filestem": "PC071510",
+    "label": "Kaaiman",
+    "datestamp": "2018-12-07 10:11:00",
+    "coordinates": {
+      "lat": 51.053163,
+      "lon": 3.7280343
+    },
+    "streetname": "Reep"
+  },
+  {
+    "filestem": "PC081512",
+    "label": "Gredis Cafe",
+    "datestamp": "2018-12-08 14:23:00",
+    "coordinates": {
+      "lat": 51.0578132,
+      "lon": 3.7014382
+    },
+    "streetname": "Drongensesteenweg"
+  },
+  {
+    "filestem": "PC081513",
+    "label": "Wassalon de Vijfhoek",
+    "datestamp": "2018-12-08 14:23:30",
+    "coordinates": {
+      "lat": 51.0576379,
+      "lon": 3.701001
+    },
+    "streetname": "Ooievaarstraat"
   }
 ]
 
