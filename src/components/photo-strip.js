@@ -11,14 +11,14 @@ class PhotoStrip extends React.Component {
 
     this.photoCells = this.props.moments.edges.map(({ node }, idx, originalArray) => {
       if (idx === 0) {
-        return { node: node, date: node.datestamp }
+        return { node: node, date: node.datestamp, showDate: true }
       }
 
       if (node.datestamp.substr(0, 11) !== originalArray[idx - 1].node.datestamp.substr(0, 11)) {
-        return { node: node, date: node.datestamp }
+        return { node: node, date: node.datestamp, showDate: true }
       }
 
-      return { node: node, date: null };
+      return { node: node, date: node.datestamp, showDate: false };
     });
   }
 
@@ -36,7 +36,7 @@ class PhotoStrip extends React.Component {
       <div ref="photoStrip" class="photo-strip">
         <div class="photo-strip-contents">
           {this.photoCells.map((val) => (
-            <PhotoStripCell moment={val.node} date={val.date} />
+            <PhotoStripCell moment={val.node} date={val.date} showDate={val.showDate} />
           ))}
         </div>
       </div>

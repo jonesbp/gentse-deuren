@@ -4,9 +4,8 @@ import DateTag from "./date-tag";
 
 export default (props) => (
   <div className="photo">
-    {(props.date) ? (
-      <DateTag date={props.date} />
-    ) : null}
+    <DateTag date={props.date} showDate={props.showDate} />
+
     <img
       src="/images/1x1.gif" 
       class="lazy" 

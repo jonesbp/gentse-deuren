@@ -43,10 +43,21 @@ header.homepage {
     }
 
     .date-tag {
-      background-color: $red;
-      color: $paper;
-      padding: .5rem;
       position: absolute;
+        top: 0;
+        left: 0;
+
+      .date-tag__date {
+        background-color: $red;
+        color: $paper;
+        padding: .5rem;
+      }
+
+      .date-tag__time {
+        background-color: $aqua;
+        color: $paper;
+        padding: .5rem;
+      }
     }
   }
 }
