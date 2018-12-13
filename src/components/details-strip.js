@@ -1,8 +1,14 @@
 import React from "react";
 
-export default (props) => (
-  <div className="details-strip">
-    <span className="label">{props.moment.label}</span>
-    <span className="streetname">{props.moment.streetname}</span>
-  </div>
-);
+class DetailsStrip extends React.Component {
+  render() {
+    return (
+      <div className="details-strip">
+        <span className="label">{this.props.moment.label}</span>
+        <span className="streetname">{this.props.moment.streetname}</span>
+      </div>
+    );
+  }
+}
+
+export default DetailsStrip;

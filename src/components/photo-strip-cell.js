@@ -3,22 +3,28 @@ import React from "react";
 import DateTag from "./date-tag";
 import DetailsStrip from "./details-strip";
 
-export default (props) => (
-  <div className="photo">
-    <DateTag date={props.date} showDate={props.showDate} />
+class PhotoStripCell extends React.Component {
+  render() {
+    return (
+      <div className="photo">
+        <DateTag date={this.props.date} showDate={this.props.showDate} />
 
-    <img
-      src="/images/1x1.gif" 
-      class="lazy" 
-      data-src={`/images/photos/${props.moment.filestem}-small.jpg`}
-      alt={`Doorway on ${props.moment.streetname}`}
-      height="500px" />
-    <noscript>
-      <img
-        src={`/images/photos/${props.moment.filestem}-small.jpg`}
-        alt={`Doorway on ${props.moment.streetname}`} />
-    </noscript>
+        <img
+          src="/images/1x1.gif" 
+          class="lazy" 
+          data-src={`/images/photos/${this.props.moment.filestem}-small.jpg`}
+          alt={`Doorway on ${this.props.moment.streetname}`}
+          height="500px" />
+        <noscript>
+          <img
+            src={`/images/photos/${this.props.moment.filestem}-small.jpg`}
+            alt={`Doorway on ${this.props.moment.streetname}`} />
+        </noscript>
 
-    <DetailsStrip moment={props.moment} />
-  </div>
-);
+        <DetailsStrip moment={this.props.moment} />
+      </div>
+    );
+  }
+}
+
+export default PhotoStripCell;

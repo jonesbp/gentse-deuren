@@ -31,15 +31,21 @@ header.homepage {
   }
 
   .photo {
+    height: 500px;
     margin-right: 1rem;
+    min-width: 666.5px;
+    overflow: hidden;
     position: relative;
+    width: 666.5px;
 
     &:last-child {
       margin-right: 0;
     }
 
     img {
+      display: block;
       height: 500px;
+      width: 666.5px;
     }
 
     .date-tag {
@@ -50,36 +56,45 @@ header.homepage {
       .date-tag__date {
         background-color: $red;
         color: $paper;
+        display: inline-block;
         padding: .5rem;
       }
 
       .date-tag__time {
         background-color: $aqua;
         color: $paper;
+        display: inline-block;
         padding: .5rem;
       }
     }
-  }
-}
 
-.details-strip {
-  background-color: $aqua;
-  color: #fff;
-  padding: .5rem;
-  position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
+    .details-strip {
+      background-color: $aqua;
+      color: #fff;
+      padding: .5rem;
+      position: absolute;
+        right: 0;
+        bottom: -1.75rem;
+        left: 0;
+      transition: bottom 0.3s ease;
 
-  .label {
-    font: {
-      size: 1rem;
-      weight: 700;
+      .label {
+        font: {
+          size: 1rem;
+          weight: 700;
+        }
+        margin-right: .5em;
+      }
+
+      .streetname {
+        font-size: .8rem;
+      }
     }
-    margin-right: .5em;
-  }
 
-  .streetname {
-    font-size: .8rem;
+    &:hover {
+      .details-strip {
+        bottom: 0;
+      }
+    }
   }
 }
