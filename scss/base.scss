@@ -12,8 +12,8 @@ html {
 }
 
 body {
-  background-color: $paper;
-  color: $text;
+  background-color: $text;
+  color: $paper;
   font-family: 'Montserrat', sans-serif;
   margin: 0;
   padding: 0;
@@ -22,7 +22,7 @@ body {
 
 header {
   h1 {
-    background-color: rgba($paper, 0.7);
+    background-color: rgba($text, 0.7);
     display: inline-block;
     margin: 0;
     padding: .5rem 1rem;
