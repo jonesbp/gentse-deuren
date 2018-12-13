@@ -1,6 +1,7 @@
 import React from "react";
 
 import DateTag from "./date-tag";
+import DetailsStrip from "./details-strip";
 
 export default (props) => (
   <div className="photo">
@@ -17,5 +18,7 @@ export default (props) => (
         src={`/images/photos/${props.moment.filestem}-small.jpg`}
         alt={`Doorway on ${props.moment.streetname}`} />
     </noscript>
+
+    <DetailsStrip moment={props.moment} />
   </div>
 );

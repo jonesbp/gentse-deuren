@@ -61,3 +61,25 @@ header.homepage {
     }
   }
 }
+
+.details-strip {
+  background-color: $aqua;
+  color: #fff;
+  padding: .5rem;
+  position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+  .label {
+    font: {
+      size: 1rem;
+      weight: 700;
+    }
+    margin-right: .5em;
+  }
+
+  .streetname {
+    font-size: .8rem;
+  }
+}
