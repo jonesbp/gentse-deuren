@@ -138,6 +138,86 @@
       "lon": 3.701001
     },
     "streetname": "Ooievaarstraat"
+  },
+  {
+    "filestem": "PC101515",
+    "label": "Namli Slagerij",
+    "datestamp": "2018-12-10 09:06:00",
+    "coordinates": {
+      "lat": 51.0607004,
+      "lon": 3.6996278
+    },
+    "streetname": "Bevrijdingslaan"
+  },
+  {
+    "filestem": "PC111518",
+    "label": "fruit4you.be",
+    "datestamp": "2018-12-11 08:57:00",
+    "coordinates": {
+      "lat": 51.0612525,
+      "lon": 3.7007412
+    },
+    "streetname": "Bevrijdingslaan"
+  },
+  {
+    "filestem": "PC111519",
+    "label": "Bodo",
+    "datestamp": "2018-12-11 09:21:00",
+    "coordinates": {
+      "lat": 51.0567294,
+      "lon": 3.7176979
+    },
+    "streetname": "Burgstraat"
+  },
+  {
+    "filestem": "PC121521",
+    "label": "Halk Firini",
+    "datestamp": "2018-12-12 08:43:00",
+    "coordinates": {
+      "lat": 51.0609354,
+      "lon": 3.6992908
+    },
+    "streetname": "Bevrijdingslaan"
+  },
+  {
+    "filestem": "PC131523",
+    "label": "Bloemen Volckaert",
+    "datestamp": "2018-12-13 10:38:00",
+    "coordinates": {
+      "lat": 51.0564409,
+      "lon": 3.7234957
+    },
+    "streetname": "Vrijdagmarkt"
+  },
+  {
+    "filestem": "PC131524",
+    "label": "Le Bal Infernal",
+    "datestamp": "2018-12-13 10:39:00",
+    "coordinates": {
+      "lat": 51.056166,
+      "lon": 3.7240172
+    },
+    "streetname": "Kammerstraat"
+  },
+  {
+    "filestem": "PC131527",
+    "label": "Stripwinkel Adhemar",
+    "datestamp": "2018-12-13 10:41:00",
+    "coordinates": {
+      "lat": 51.0559165,
+      "lon": 3.7249581
+    },
+    "streetname": "Kammerstraat"
+  },
+  {
+    "filestem": "PC131528",
+    "label": "Tante Paula",
+    "datestamp": "2018-12-13 11:09:00",
+    "coordinates": {
+      "lat": 51.0561783,
+      "lon": 3.7262583
+    },
+    "streetname": "Vlasmarkt"
   }
 ]
 
