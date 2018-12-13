@@ -28,3 +28,18 @@ header {
     padding: .5rem 1rem;
   }
 }
+
+footer {
+  span {
+    background-color: rgba($text, 0.7);
+    display: inline-block;
+    font-size: .9rem;
+    margin: 0;
+    padding: .5rem 1rem 1rem 1rem;
+
+    a {
+      color: $paper;
+      text-decoration: underline;
+    }
+  }
+}

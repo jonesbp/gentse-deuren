@@ -12,5 +12,9 @@ export default ({ children }) => (
     <div className="homepage-wrapper">
       {children}
     </div>
+
+    <footer className="homepage">
+      <span>Made by <a href="https://brianjon.es">Brian Jones</a></span>
+    </footer>
   </>
 );

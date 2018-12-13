@@ -8,6 +8,14 @@ header.homepage {
   z-index: 1;
 }
 
+footer.homepage {
+  position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  z-index: 1;
+}
+
 .homepage-wrapper {
   display: flex;
   flex-direction: column;
