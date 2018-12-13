@@ -12,16 +12,19 @@ html {
 }
 
 body {
-  background-color: $aqua;
-  color: $paper;
+  background-color: $paper;
+  color: $text;
   font-family: 'Montserrat', sans-serif;
   margin: 0;
   padding: 0;
+  position: relative;
 }
 
-
 header {
-  background-color: $aqua;
-  color: $paper;
-  padding: .5rem 1rem;
+  h1 {
+    background-color: rgba($paper, 0.7);
+    display: inline-block;
+    margin: 0;
+    padding: .5rem 1rem;
+  }
 }

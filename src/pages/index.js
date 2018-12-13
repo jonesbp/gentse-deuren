@@ -1,15 +1,15 @@
 import React from "react"
 
-import Layout from "../components/layout";
+import HomepageLayout from "../components/homepage-layout";
 
 import PhotoStrip from "../components/photo-strip";
 
 import '../../scss/homepage.scss';
 
 export default ({ data }) => (
-  <Layout>
+  <HomepageLayout>
     <PhotoStrip moments={data.allMomentsJson} />
-  </Layout>
+  </HomepageLayout>
 );
 
 export const query = graphql`
