@@ -218,6 +218,126 @@
       "lon": 3.7262583
     },
     "streetname": "Vlasmarkt"
+  },
+  {
+    "filestem": "PC161533",
+    "label": "Bakkerij Himschoot",
+    "datestamp": "2018-12-16 11:47:00",
+    "coordinates": {
+      "lat": 51.0557306,
+      "lon": 3.7203275
+    },
+    "streetname": "Groentenmarkt"
+  },
+  {
+    "filestem": "PC171542",
+    "label": "Benny & Ingrid",
+    "datestamp": "2018-12-17 08:52:00",
+    "coordinates": {
+      "lat": 51.0562093,
+      "lon": 3.7125607
+    },
+    "streetname": "Burgstraat"
+  },
+  {
+    "filestem": "PC181543",
+    "label": "Eagle Cafe",
+    "datestamp": "2018-12-18 08:51:00",
+    "coordinates": {
+      "lat": 51.0623551,
+      "lon": 3.7018389
+    },
+    "streetname": "Schaliestraat"
+  },
+  {
+    "filestem": "PC181545",
+    "label": "Ergun’s Market",
+    "datestamp": "2018-12-18 09:08:00",
+    "coordinates": {
+      "lat": 51.0641681,
+      "lon": 3.7075036
+    },
+    "streetname": "Wondelgemstraat"
+  },
+  {
+    "filestem": "PC181546",
+    "label": "Bakkerij Öz Mevlana",
+    "datestamp": "2018-12-18 09:10:00",
+    "coordinates": {
+      "lat": 51.0631077,
+      "lon": 3.7075515
+    },
+    "streetname": "Wondelgemstraat"
+  },
+  {
+    "filestem": "PC181548",
+    "label": "Slagerij Dogan",
+    "datestamp": "2018-12-18 09:11:00",
+    "coordinates": {
+      "lat": 51.0596398,
+      "lon": 3.7082124
+    },
+    "streetname": "Wondelgemstraat"
+  },
+  {
+    "filestem": "PC181549",
+    "label": "Kruidvat",
+    "datestamp": "2018-12-18 09:12:00",
+    "coordinates": {
+      "lat": 51.0621605,
+      "lon": 3.7080521
+    },
+    "streetname": "Wondelgemstraat"
+  },
+  {
+    "filestem": "PC181550",
+    "label": "Doopsuiker Renard",
+    "datestamp": "2018-12-18 09:13:00",
+    "coordinates": {
+      "lat": 51.059636,
+      "lon": 3.7072102
+    },
+    "streetname": "Wondelgemstraat"
+  },
+  {
+    "filestem": "PC191551",
+    "label": "Blend",
+    "datestamp": "2018-12-19 11:32:00",
+    "coordinates": {
+      "lat": 51.0494754,
+      "lon": 3.72761
+    },
+    "streetname": "Kuiperskaai"
+  },
+  {
+    "filestem": "PC201553",
+    "label": "Osteria Al Sikulo",
+    "datestamp": "2018-12-20 17:05:00",
+    "coordinates": {
+      "lat": 51.0579138,
+      "lon": 3.7235084
+    },
+    "streetname": "Waaistraat"
+  },
+  {
+    "filestem": "PC201554",
+    "label": "Louise & Madeleine",
+    "datestamp": "2018-12-20 17:08:00",
+    "coordinates": {
+      "lat": 51.0573015,
+      "lon": 3.7210866
+    },
+    "streetname": "Kraanlei"
+  },
+  {
+    "filestem": "PC211558",
+    "label": "Bakkerij Harput",
+    "datestamp": "2018-12-21 08:38:00",
+    "coordinates": {
+      "lat": 51.2778252,
+      "lon": 3.7167072
+    },
+    "streetname": "Bevrijdingslaan"
   }
 ]
 
