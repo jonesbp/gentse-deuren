@@ -338,6 +338,126 @@
       "lon": 3.7167072
     },
     "streetname": "Bevrijdingslaan"
+  },
+  {
+    "filestem": "P1071560",
+    "label": "Wassalon",
+    "datestamp": "2019-01-07 08:48:00",
+    "coordinates": {
+      "lat": 51.0632358,
+      "lon": 3.705037
+    },
+    "streetname": "Schaliestraat"
+  },
+  {
+    "filestem": "P1071561",
+    "label": "Garage Kaymak",
+    "datestamp": "2019-01-07 09:06:00",
+    "coordinates": {
+      "lat": 51.0677548,
+      "lon": 3.7057622
+    },
+    "streetname": "Frans van Ryhovelaan"
+  },
+  {
+    "filestem": "P1091563",
+    "label": "La Mestiza",
+    "datestamp": "2019-01-09 09:08:00",
+    "coordinates": {
+      "lat": 51.0551547,
+      "lon": 3.7107158
+    },
+    "streetname": "Hoogstraat"
+  },
+  {
+    "filestem": "P1101564",
+    "label": "’t Klokhuys",
+    "datestamp": "2019-01-10 10:21:00",
+    "coordinates": {
+      "lat": 51.0580075,
+      "lon": 3.7213451
+    },
+    "streetname": "Corduwanierstraat"
+  },
+  {
+    "filestem": "P1141565",
+    "label": "Mokabon",
+    "datestamp": "2019-01-14 10:21:00",
+    "coordinates": {
+      "lat": 51.0548127,
+      "lon": 3.7204326
+    },
+    "streetname": "Donkersteeg"
+  },
+  {
+    "filestem": "P1151567",
+    "label": "Hogar Español",
+    "datestamp": "2019-01-15 08:59:00",
+    "coordinates": {
+      "lat": 51.0552997,
+      "lon": 3.7100892
+    },
+    "streetname": "Hoogstraat"
+  },
+  {
+    "filestem": "P1171568",
+    "label": "Gallery",
+    "datestamp": "2019-01-17 10:09:00",
+    "coordinates": {
+      "lat": 51.0548916,
+      "lon": 3.7295607
+    },
+    "streetname": "Sint-Jacobnieuwstraat"
+  },
+  {
+    "filestem": "P1181569",
+    "label": "Kheder Voeding Syrië",
+    "datestamp": "2019-01-18 08:43:00",
+    "coordinates": {
+      "lat": 51.0565285,
+      "lon": 3.7077143
+    },
+    "streetname": "Brugsepoortstraat"
+  },
+  {
+    "filestem": "P1181570",
+    "label": "Kapsalon Cote D’Azur",
+    "datestamp": "2019-01-18 08:49:00",
+    "coordinates": {
+      "lat": 51.0563093,
+      "lon": 3.7165135
+    },
+    "streetname": "Burgstraat"
+  },
+  {
+    "filestem": "P1211571",
+    "label": "ZoeZoe Records",
+    "datestamp": "2019-01-21 10:27:00",
+    "coordinates": {
+      "lat": 51.055855,
+      "lon": 3.7231327
+    },
+    "streetname": "Serpentstraat"
+  },
+  {
+    "filestem": "P1211572",
+    "label": "Patrick en Claudine",
+    "datestamp": "2019-01-21 11:52:00",
+    "coordinates": {
+      "lat": 51.0597337,
+      "lon": 3.7256163
+    },
+    "streetname": "Goudstraat"
+  },
+  {
+    "filestem": "P1211573",
+    "label": "Kopergietery",
+    "datestamp": "2019-01-21 11:56:00",
+    "coordinates": {
+      "lat": 51.0594351,
+      "lon": 3.7302068
+    },
+    "streetname": "Blekerijstraat"
   }
 ]
 
