@@ -1,6 +1,7 @@
 import React from "react";
 
 import HelmetWrapper from "./helmet-wrapper";
+import FooterScripts from "./footer-scripts";
 
 export default ({ children }) => (
   <>
@@ -16,5 +17,7 @@ export default ({ children }) => (
     <footer className="homepage">
       <span>Made by <a href="https://brianjon.es">Brian Jones</a></span>
     </footer>
+
+    <FooterScripts />
   </>
 );
