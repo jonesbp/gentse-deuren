@@ -458,6 +458,196 @@
       "lon": 3.7302068
     },
     "streetname": "Blekerijstraat"
+  },
+  {
+    "filestem": "P1221578",
+    "label": "Decoene",
+    "datestamp": "2019-01-22 12:09:00",
+    "coordinates": {
+      "lat": 51.059551,
+      "lon": 3.722208
+    },
+    "streetname": "Sluizeken"
+  },
+  {
+    "filestem": "P1221580",
+    "label": "Libanese Snack",
+    "datestamp": "2019-01-22 12:10:00",
+    "coordinates": {
+      "lat": 51.0600333,
+      "lon": 3.7223919
+    },
+    "streetname": "Grauwpoort"
+  },
+  {
+    "filestem": "P1221586",
+    "label": "Van Crombrugghe’s Genootschap",
+    "datestamp": "2019-01-22 12:15:00",
+    "coordinates": {
+      "lat": 51.0609924,
+      "lon": 3.7256709
+    },
+    "streetname": "Huidevetterskaai"
+  },
+  {
+    "filestem": "P1221587",
+    "label": "Il Mezzogiorno",
+    "datestamp": "2019-01-22 12:18:00",
+    "coordinates": {
+      "lat": 51.059398,
+      "lon": 3.7276653
+    },
+    "streetname": "Baudelokaai"
+  },
+  {
+    "filestem": "P1231588",
+    "label": "Dagwinkel",
+    "datestamp": "2019-01-23 08:59:00",
+    "coordinates": {
+      "lat": 51.0586918,
+      "lon": 3.7038915
+    },
+    "streetname": "Phoenixstraat"
+  },
+  {
+    "filestem": "P1231589",
+    "label": "OCMW",
+    "datestamp": "2019-01-23 09:07:00",
+    "coordinates": {
+      "lat": 51.0568118,
+      "lon": 3.7118629
+    },
+    "streetname": "Begijnhofdries"
+  },
+  {
+    "filestem": "P1231590",
+    "label": "Cecilia Jaime Gallery",
+    "datestamp": "2019-01-23 09:18:00",
+    "coordinates": {
+      "lat": 51.0572395,
+      "lon": 3.7209892
+    },
+    "streetname": "Kraanlei"
+  },
+  {
+    "filestem": "P1241591",
+    "label": "Het Spijker",
+    "datestamp": "2019-01-24 09:04:00",
+    "coordinates": {
+      "lat": 51.0555407,
+      "lon": 3.7190951
+    },
+    "streetname": "Pensmarkt"
+  },
+  {
+    "filestem": "P1251592",
+    "label": "Ardiani Cafe",
+    "datestamp": "2019-01-25 17:00:00",
+    "coordinates": {
+      "lat": 51.0574258,
+      "lon": 3.7062024
+    },
+    "streetname": "Noordstraat"
+  },
+  {
+    "filestem": "P1281594",
+    "label": "Modes",
+    "datestamp": "2019-01-28 08:59:00",
+    "coordinates": {
+      "lat": 51.0546309,
+      "lon": 3.7121193
+    },
+    "streetname": "Hoogstraat"
+  },
+  {
+    "filestem": "P1281595",
+    "label": "Café Labath",
+    "datestamp": "2019-01-28 09:01:00",
+    "coordinates": {
+      "lat": 51.0543177,
+      "lon": 3.7145814
+    },
+    "streetname": "Hoogstraat"
+  },
+  {
+    "filestem": "P1281601",
+    "label": "Franz Gustav",
+    "datestamp": "2019-01-28 12:54:00",
+    "coordinates": {
+      "lat": 51.0613807,
+      "lon": 3.7316875
+    },
+    "streetname": "Ham"
+  },
+  {
+    "filestem": "P1281602",
+    "label": "Minne",
+    "datestamp": "2019-01-28 12:58:00",
+    "coordinates": {
+      "lat": 51.060149,
+      "lon": 3.7281635
+    },
+    "streetname": "Kongostraat"
+  },
+  {
+    "filestem": "P1291603",
+    "label": "Gruut",
+    "datestamp": "2019-01-29 09:51:00",
+    "coordinates": {
+      "lat": 51.0574897,
+      "lon": 3.7280204
+    },
+    "streetname": "Grote Huidevettershoek"
+  },
+  {
+    "filestem": "P1291604",
+    "label": "Parels",
+    "datestamp": "2019-01-29 09:53:00",
+    "coordinates": {
+      "lat": 51.0562444,
+      "lon": 3.729456
+    },
+    "streetname": "Nieuwpoort"
+  },
+  {
+    "filestem": "P1301607",
+    "label": "Snack Lhouma",
+    "datestamp": "2019-01-30 08:52:00",
+    "coordinates": {
+      "lat": 51.0580196,
+      "lon": 3.7042561
+    },
+    "streetname": "Phoenixstraat"
+  },
+  {
+    "filestem": "P1301608",
+    "label": "Taiba Markt",
+    "datestamp": "2019-01-30 08:53:00",
+    "coordinates": {
+      "lat": 51.0577518,
+      "lon": 3.7048508
+    },
+    "streetname": "Phoenixstraat"
+  },
+  {
+    "filestem": "P1311609",
+    "label": "Barberattoo",
+    "datestamp": "2019-01-31 08:40:00",
+    "coordinates": {
+      "lat": 51.0583515,
+      "lon": 3.7030257
+    },
+    "streetname": "Phoenixstraat"
+  },
+  {
+    "filestem": "P1311612",
+    "label": "Post Media",
+    "datestamp": "2019-01-31 08:41:00",
+    "coordinates": {
+      "lat": 51.05815,
+      "lon": 3.7034199
+    },
+    "streetname": "Phoenixstraat"
   }
 ]
 
